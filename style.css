@@ -1,0 +1,30 @@
+
+/*Globales*/
+
+* {
+    margin:20%
+}
+
+body {
+    background-color:rgb(212, 189, 255);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 14px;
+    text-align: center;
+
+}
+
+/*Globales*/
+
+h1 {
+border: 3px solid rgb(79, 66, 124);
+position:center;
+margin: 0%;
+text-align: center;
+width: 50%;
+
+}
+
+header {
+    background: rgb(79, 66, 124);
+    height: 70px;
+    width: 70px;
