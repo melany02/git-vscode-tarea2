@@ -2,29 +2,61 @@
 /*Globales*/
 
 * {
-    margin:20%
+  
+    margin: 10px;
+}
+
+/*esta es la imagen */
+header {
+    background-color: rgb(159, 130, 238);
+}
+
+head {
+    background: rgb(255, 255, 255);
+    text-align: center;
 }
 
 body {
-    background-color:rgb(212, 189, 255);
+    background-color:rgb(255, 255, 255);
     font-family: 'Franklin Gothic Medium';
     font-size: 14px;
     text-align: center;
+    text-align-last: unset;
 
 }
 
 /*Globales*/
 
+
 h1 {
 border: 3px solid rgb(79, 66, 124);
 position:center;
-margin: 0%;
 text-align: center;
+margin: 0 auto;
 width: 50%;
 
 }
 
-header {
-    background: rgb(79, 66, 124);
-    height: 70px;
-    width: 70px;
+
+p {
+    background-color: rgb(212, 189, 255);
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;  
+    line-height : 25px  
+}
+
+ul {
+    background-color: rgb(212, 189, 255);
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 50%;
+    outline-color: burlywood;
+    color: rgb(79, 66, 124);
+
+}
+
+footer {
+    background-color: rgb(159, 130, 238);
+}
