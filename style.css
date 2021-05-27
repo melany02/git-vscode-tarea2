@@ -46,6 +46,11 @@ p {
     line-height : 25px  
 }
 
+span {
+    color: rgb(255, 56, 228);
+
+}
+
 ul {
     background-color: rgb(212, 189, 255);
     text-align: center;
@@ -60,3 +65,9 @@ ul {
 footer {
     background-color: rgb(159, 130, 238);
 }
+
+
+
+
+
+rgb(153, 27, 147)
