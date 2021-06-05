@@ -1,7 +1,7 @@
 ///////////
  
 function Mostrar () {
-    document.getElementById ('demo').style.display = 'bloc++++++++k';
+    document.getElementById ('demo').style.display = 'block';
     document.getElementById ('toggle1').style.display = 'none';
     document.getElementById ('toggleBloque').style.display = 'block';
 }
